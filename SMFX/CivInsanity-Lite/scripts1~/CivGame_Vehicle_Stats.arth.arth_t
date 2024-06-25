@@ -1,0 +1,23 @@
+damage_multiplier = 2.0
+hit_point_multiplier = 1.0
+speed_multiplier = 4.0
+
+if (locomotion ~= 0.0)
+	damage_multiplier = (damage_multiplier * 10.0) + (power * 10.0)
+	hit_point_multiplier = (hit_point_multiplier * 150.0) + (defense * 50.0)
+	speed_multiplier = (speed_multiplier * 20.0) + (speed * 10.0)
+endif
+
+if (locomotion ~= 1.0)
+	damage_multiplier = (damage_multiplier * 15.0) + (power * 10.0)
+	hit_point_multiplier = (hit_point_multiplier * 200.0) + (defense * 50.0)
+	speed_multiplier = (speed_multiplier * 20.0) + (speed * 10.0)
+endif
+
+if (locomotion ~= 2.0)
+	damage_multiplier = (damage_multiplier * 10.0) + (power * 10.0)
+	hit_point_multiplier = (hit_point_multiplier * 100.0) + (defense * 50.0)
+	speed_multiplier = (speed_multiplier * 40.0) + (speed * 20.0)
+endif
+
+

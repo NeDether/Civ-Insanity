@@ -1,0 +1,5 @@
+num_cities_in_home_planet = 20.0
+num_cities_in_colony = 2.0
+min_dist_to_neighbor_city = 20.0
+max_dist_to_neighbor_city = 40.0
+

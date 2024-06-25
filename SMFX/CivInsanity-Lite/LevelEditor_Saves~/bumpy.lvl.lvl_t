@@ -1,0 +1,1001 @@
+marker CreatureArchetype -id kHerd~ avatar
+	position (281.5615845, 392.7143555, -152.5951996)
+	orientation (-0.6555069, 0.4699742, 0.0000001, 0.5911301)
+
+	propertyCount 10
+end
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-11.416693, -213.722870, 454.744873)
+	orientation (0.218145, -0.003854, -0.034836, 0.975287)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-137.041473, -206.694611, 437.147247)
+	orientation (0.211741, -0.142390, 0.006326, 0.966877)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-297.849335, -187.203522, 358.944794)
+	orientation (0.228444, -0.301200, -0.081143, 0.922230)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-408.833313, -146.036179, 253.237930)
+	orientation (0.230123, -0.441715, -0.118608, 0.858989)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-480.388550, -91.271454, 116.176956)
+	orientation (0.138859, -0.604269, -0.029899, 0.784017)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-492.131897, -13.197754, -101.156998)
+	orientation (0.086662, -0.770146, -0.053805, 0.629659)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-411.631989, 36.133659, -286.101746)
+	orientation (0.216352, 0.858963, -0.073565, -0.458218)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-262.817139, 68.253273, -422.929504)
+	orientation (0.252354, 0.925778, -0.003388, -0.281500)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-114.571640, 91.548851, -480.721191)
+	orientation (0.383790, 0.911562, 0.040151, -0.141943)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (61.148884, 89.230057, -490.815155)
+	orientation (0.500865, 0.858729, 0.107963, 0.007870)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (266.729584, 64.753372, -421.026184)
+	orientation (0.919914, 0.269463, 0.284551, -0.013324)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (418.154449, 13.439119, -278.508514)
+	orientation (-0.355464, 0.806670, -0.176415, 0.437958)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (492.406494, -73.281845, -69.038475)
+	orientation (-0.010313, 0.754040, -0.105550, 0.648211)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (455.993408, -141.347656, 157.135544)
+	orientation (0.084181, 0.580163, -0.126264, 0.800239)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (342.487122, -196.177185, 311.155609)
+	orientation (0.187325, 0.394157, -0.068788, 0.897116)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (186.277893, -226.698914, 408.054962)
+	orientation (0.233181, 0.199193, -0.018196, 0.951639)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-395.810394, 76.717369, 300.082123)
+	orientation (-0.100389, -0.437480, 0.030480, 0.893087)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-454.914459, 143.212677, 158.567566)
+	orientation (-0.163273, -0.561777, -0.017958, 0.810818)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-458.927948, 201.841919, -35.294956)
+	orientation (-0.253150, -0.686315, -0.041551, 0.680559)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-374.407227, 258.981934, -212.951462)
+	orientation (-0.405005, -0.740151, -0.055970, 0.533868)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (477.967712, 153.230911, -25.843489)
+	orientation (-0.336645, 0.642169, -0.118284, 0.678453)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (457.493530, 77.512657, 193.111816)
+	orientation (-0.151678, 0.533740, -0.090539, 0.826993)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (329.301178, 22.415239, 379.023773)
+	orientation (-0.036770, 0.348684, -0.034739, 0.935874)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (234.984329, 168.303268, 411.165558)
+	orientation (-0.168355, 0.250226, 0.027923, 0.953029)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (344.024078, 206.253006, 302.833038)
+	orientation (-0.237217, 0.377437, -0.018825, 0.894939)
+
+	propertyCount 10
+end
+
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-95.227425, 466.278046, -161.608383)
+	orientation (-0.771551, -0.255898, -0.069025, 0.578326)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (61.761166, 471.613159, -162.380234)
+	orientation (-0.813149, -0.018206, -0.088436, 0.575010)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (209.277069, 444.510895, -105.895767)
+	orientation (-0.764129, 0.146478, -0.155802, 0.608586)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (245.371140, 437.097229, 36.602478)
+	orientation (-0.610661, 0.301131, -0.039089, 0.731359)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (279.027924, 366.634491, 200.806610)
+	orientation (-0.451139, 0.310972, -0.039324, 0.835598)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (179.246353, 295.972687, 364.515656)
+	orientation (-0.316582, 0.192723, 0.002133, 0.928779)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (74.888016, 173.850861, 465.583893)
+	orientation (-0.178355, 0.070770, -0.028457, 0.981005)
+
+	propertyCount 10
+end
+
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (348.273712, -120.867950, -341.609589)
+	orientation (0.398548, 0.825231, 0.046268, 0.397508)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (189.715164, -51.466625, -462.558167)
+	orientation (0.483420, 0.852335, 0.049573, 0.193318)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-52.683586, -37.064144, -498.449036)
+	orientation (0.622590, 0.779909, -0.061643, -0.017994)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-209.769485, -56.854912, -453.172180)
+	orientation (0.875890, 0.428545, -0.217731, 0.041953)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-109.728882, -374.812836, -316.347321)
+	orientation (0.876937, -0.213765, -0.019664, -0.429998)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-215.249542, -448.273071, -72.935333)
+	orientation (0.654187, -0.380261, 0.051513, 0.651757)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-107.205971, -480.765991, 99.858147)
+	orientation (0.600390, -0.200472, 0.079494, 0.770080)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (99.039764, -487.489685, 71.733421)
+	orientation (0.649415, -0.083047, 0.243240, 0.715680)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-16.032320, -459.962982, -201.935043)
+	orientation (0.806906, -0.223151, 0.127326, 0.531879)
+
+	propertyCount 10
+end
+
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (36.9507904, 503.5255127, 39.4034576)
+	orientation (-0.6772193, 0.0496971, -0.0000001, 0.734101)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (15.0864954, 260.9838257, 433.2076416)
+	orientation (-0.2677073, 0.0154752, 0, 0.963376)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-443.1720886, 40.3414345, 240.4598083)
+	orientation (-0.0464291, -0.5100484, 0, 0.8588917)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-427.9296875, -254.5189362, 84.9990692)
+	orientation (0.3296491, -0.5542482, 0.0000001, 0.7642908)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-76.4954529, -422.76651, 266.3576965)
+	orientation (0.4785826, -0.0865948, 0, 0.873762)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (302.3667603, -348.6345215, 201.8433533)
+	orientation (0.4135315, 0.3586511, 0.0000001, 0.8368759)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (506.3097534, -34.5684586, 32.0924416)
+	orientation (0.0466213, 0.6828401, 0.0000002, 0.7290788)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (394.4462891, 21.4452744, -315.1039429)
+	orientation (-0.0489131, 0.8996667, 0, 0.4338287)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-259.9186096, -397.2024231, -172.8709259)
+	orientation (0.6854849, -0.4485612, -0.0000011, 0.5735009)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (83.9679947, -489.2701416, -96.2300262)
+	orientation (0.7603451, 0.1304896, -0, 0.6362765)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-404.0991516, -97.5556183, -292.0971985)
+	orientation (-0.2082464, 0.8626075, 0, -0.4610225)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (330.5847473, -296.3717041, -257.7264404)
+	orientation (0.5784866, 0.6452668, 0, 0.498983)
+
+	propertyCount 10
+end
+
+marker MigrationPoint
+	position (33.2049484, 503.6173706, 41.5084419)
+	orientation (-0.6760404, 0.0445732, -0.0000001, 0.7355152)
+
+	group 1
+	number 0
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-51.4051132, 502.1788635, 34.725605)
+	orientation (-0.6788644, -0.0694914, -0, 0.7309679)
+
+	group 1
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-108.0626297, 495.1878967, 30.7138309)
+	orientation (-0.6696284, -0.14613, 0, 0.7281784)
+
+	group 1
+	number 2
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-126.9398346, 488.8165588, 44.9021568)
+	orientation (-0.6533977, -0.1696796, -0, 0.7377536)
+
+	group 1
+	propertyCount 3
+	number 3
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-151.2477875, 476.9833374, 82.7471161)
+	orientation (-0.6166013, -0.1955196, -0, 0.7626106)
+
+	group 1
+	number 4
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-176.8373566, 455.2058716, 136.3658295)
+	orientation (-0.5635557, -0.2189289, 0, 0.7965395)
+
+	group 1
+	propertyCount 3
+	number 5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-163.7171478, 434.6928711, 198.0378418)
+	orientation (-0.5158997, -0.1943018, 0, 0.8343227)
+
+	group 1
+	number 6
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-123.7472687, 403.7106018, 303.1032715)
+	orientation (-0.4364946, -0.1337964, 0, 0.8897028)
+
+	group 1
+	number 7
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-94.5330658, 387.331543, 321.3933716)
+	orientation (-0.4192114, -0.1023137, 0, 0.9021052)
+
+	group 1
+	number 8
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-104.7061996, 375.6820984, 332.2228699)
+	orientation (-0.4038532, -0.1125578, 0, 0.907873)
+
+	group 1
+	number 9
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-129.259491, 361.5223389, 342.4322815)
+	orientation (-0.3850198, -0.1376608, 0, 0.9125838)
+
+	group 1
+	number 10
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-159.7726898, 339.6114807, 357.330658)
+	orientation (-0.3565102, -0.1677228, 0, 0.9191135)
+
+	group 1
+	number 11
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-175.8049316, 325.9541626, 360.8065491)
+	orientation (-0.3421112, -0.1845193, -0, 0.9213645)
+
+	group 1
+	number 12
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-198.3476715, 280.7881775, 393.0327148)
+	orientation (-0.287211, -0.2028847, -0, 0.9361344)
+
+	group 1
+	number 13
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-200.0046539, 250.6491241, 411.5249634)
+	orientation (-0.254005, -0.2026824, -0, 0.9457279)
+
+	group 1
+	number 14
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-197.4856262, 228.3843079, 418.0203552)
+	orientation (-0.2327411, -0.201253, -0, 0.9514877)
+
+	group 1
+	propertyCount 3
+	number 15
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-185.9153137, 191.0610199, 431.2589417)
+	orientation (-0.1958796, -0.1906041, 0, 0.9619259)
+
+	group 1
+	number 16
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-189.7187042, 178.5634308, 433.3294373)
+	orientation (-0.1832499, -0.1946979, -0, 0.9635934)
+
+	group 1
+	number 17
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-224.5846252, 161.0195923, 423.4936829)
+	orientation (-0.1661029, -0.2316747, -0, 0.9585075)
+
+	group 1
+	number 18
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-278.8962097, 176.4285431, 382.5421143)
+	orientation (-0.1862792, -0.294468, -0, 0.9373306)
+
+	group 1
+	number 19
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-312.7225647, 163.9794159, 362.9466553)
+	orientation (-0.1747626, -0.333287, 0, 0.9264868)
+
+	group 1
+	number 20
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-328.7337952, 149.2306213, 355.6021118)
+	orientation (-0.1596278, -0.3516373, 0, 0.9224263)
+
+	group 1
+	number 21
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-93.4621658, 387.4353638, 321.2451172)
+	orientation (-0.4195006, -0.1011974, 0, 0.9020967)
+
+	group 2
+	propertyCount 3
+	number 0
+	radiusMultiplier 0.5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-68.6388474, 390.1940918, 321.3124695)
+	orientation (-0.4236704, -0.0745277, -0, 0.9027453)
+
+	group 2
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-25.2153912, 389.0542297, 319.0477295)
+	orientation (-0.4272901, -0.0276935, -0, 0.9036903)
+
+	group 2
+	number 2
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (0.5513923, 384.4554749, 327.9724121)
+	orientation (-0.4189216, 0.0006008, 0, 0.9080222)
+
+	group 2
+	number 3
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (14.0770235, 285.0071411, 416.342865)
+	orientation (-0.2955653, 0.0145985, 0, 0.955211)
+
+	group 2
+	number 4
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (19.7252007, 273.9711609, 423.9310303)
+	orientation (-0.2827869, 0.0203599, 0, 0.9589667)
+
+	group 2
+	number 5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (16.3859215, 262.0037537, 432.5557861)
+	orientation (-0.2688427, 0.0168136, 0, 0.9630373)
+
+	group 2
+	number 6
+	type CreaturePath
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonPartUnlockColumn3
+	position (136.8014221, 433.6194458, 217.8058624)
+	orientation (-0.5082173, 0.1603359, -0.0000003, 0.8461723)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonPartUnlockColumn3
+	position (-215.8583832, 444.5249329, 107.6141968)
+	orientation (-0.5643623, -0.2740503, 0.0000004, 0.7787116)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonPartUnlockColumn4
+	position (-351.9790955, 178.0775452, 315.8932495)
+	orientation (-0.1954586, -0.3863335, 0.0000001, 0.9014114)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonPartUnlockColumn4
+	position (-434.0877686, 51.6414795, 255.9224701)
+	orientation (-0.0587569, -0.4938984, 0, 0.8675321)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonPartUnlockColumn4
+	position (-448.0012817, 60.895813, 224.487442)
+	orientation (-0.0709699, -0.5221149, -0, 0.8499173)
+end
+
+marker MigrationPoint
+	position (280.3742065, 393.5740051, -152.5665436)
+	orientation (-0.6569154, 0.4679733, 0, 0.591154)
+
+	group 0xbfa4032e
+	propertyCount 3
+	number 0
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (269.2524109, 406.9091187, -137.2102509)
+	orientation (-0.6647398, 0.4398594, -0, 0.6038581)
+
+	group 0xbfa4032e
+	number 1
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (250.8703766, 421.7843628, -132.1867065)
+	orientation (-0.6822019, 0.4057625, 0, 0.6082411)
+
+	group 0xbfa4032e
+	number 2
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (250.5336914, 422.0145874, -131.7785034)
+	orientation (-0.6823319, 0.405074, 0, 0.6085542)
+
+	group 0xbfa40333
+	number 0
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (235.2434998, 431.8335571, -122.465538)
+	orientation (-0.6919211, 0.3769274, -0, 0.6157686)
+
+	group 0xbfa40333
+	number 1
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (229.7898254, 439.0731201, -104.2818451)
+	orientation (-0.6879817, 0.3600563, -0.0000002, 0.6301116)
+
+	group 0xbfa40333
+	number 2
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (232.0007935, 441.7674255, -91.7084961)
+	orientation (-0.6802608, 0.3572492, 0, 0.6400142)
+
+	group 0xbfa40333
+	number 3
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (234.0252533, 444.5922546, -76.6716232)
+	orientation (-0.6712542, 0.3533359, 0, 0.6515916)
+
+	group 0xbfa40333
+	number 4
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (229.4026642, 447.25354, -68.8039322)
+	orientation (-0.6704792, 0.3438982, -0, 0.6574129)
+
+	group 0xbfa40333
+	number 5
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (220.5379639, 452.2650757, -62.9440956)
+	orientation (-0.6738614, 0.3285948, -0.0000001, 0.6617675)
+
+	group 0xbfa40333
+	number 6
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (209.5870819, 457.7289429, -61.6784096)
+	orientation (-0.6808854, 0.3117668, -0.0000001, 0.6627191)
+
+	group 0xbfa40333
+	number 7
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (202.2100983, 463.6152039, -76.7471237)
+	orientation (-0.695058, 0.3031563, 0.0000002, 0.6519131)
+
+	group 0xbfa40333
+	number 8
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (196.4541321, 466.3211975, -87.6826477)
+	orientation (-0.705079, 0.2970391, -0.0000001, 0.6439189)
+
+	group 0xbfa40333
+	number 9
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (188.6752625, 473.0084229, -92.3079758)
+	orientation (-0.7129537, 0.2843855, 0, 0.6409538)
+
+	group 0xbfa40333
+	number 10
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (185.3755798, 475.6832581, -90.3206558)
+	orientation (-0.7139314, 0.2782217, -0, 0.6425687)
+
+	group 0xbfa40333
+	number 11
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (175.0189056, 478.3120422, -81.7079163)
+	orientation (-0.7147079, 0.261518, -0.0000003, 0.6486918)
+
+	group 0xbfa40333
+	propertyCount 3
+	number 12
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (137.3271942, 489.8442993, -71.1344833)
+	orientation (-0.7264714, 0.2036652, -0, 0.656323)
+
+	group 0xbfa40333
+	number 13
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (120.9400101, 492.6236877, -51.4281082)
+	orientation (-0.7205171, 0.1768881, -0.0000001, 0.6704966)
+
+	group 0xbfa40333
+	number 14
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (108.7104187, 493.2960205, -30.092907)
+	orientation (-0.7107737, 0.1566372, 0, 0.6857591)
+
+	group 0xbfa40333
+	number 15
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (90.1966629, 496.870697, -19.1382809)
+	orientation (-0.7087882, 0.1286658, -0.0000001, 0.6935881)
+
+	group 0xbfa40333
+	number 16
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (69.122757, 502.1509399, 2.1931849)
+	orientation (-0.6989841, 0.0962174, -0.0000001, 0.7086349)
+
+	group 0xbfa40333
+	number 17
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (56.4165688, 503.1760864, 16.7184181)
+	orientation (-0.6910115, 0.0774769, 0, 0.7186797)
+
+	group 0xbfa40333
+	number 18
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (37.7655907, 503.3148804, 41.2770576)
+	orientation (-0.6757771, 0.0507061, -0, 0.7353599)
+
+	group 0xbfa40333
+	number 19
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-342.4480591, 141.9633331, 342.3592529)
+	orientation (-0.1535492, -0.3703958, 0, 0.9160948)
+
+	group 1
+	number 22
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-355.1857605, 153.9058228, 326.0272522)
+	orientation (-0.1676975, -0.3870144, -0, 0.9066959)
+
+	group 1
+	number 23
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-368.526001, 165.5385895, 309.3184509)
+	orientation (-0.1814231, -0.4038884, 0, 0.8966381)
+
+	group 1
+	number 24
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-381.610321, 159.5213623, 301.2307434)
+	orientation (-0.1748981, -0.418395, 0, 0.8912666)
+
+	group 1
+	number 25
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-392.0027466, 159.3842926, 286.5713806)
+	orientation (-0.176517, -0.4341402, 0, 0.8833821)
+
+	group 1
+	number 26
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-402.1785278, 151.410553, 274.0480957)
+	orientation (-0.1693982, -0.4499575, 0, 0.8768367)
+
+	group 1
+	number 27
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-417.7663574, 111.6651688, 266.3726501)
+	orientation (-0.1259139, -0.4710744, -0, 0.8730605)
+
+	group 1
+	number 28
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-433.3581848, 79.3553162, 252.1517487)
+	orientation (-0.0903547, -0.4934257, -0, 0.8650821)
+
+	group 1
+	propertyCount 3
+	number 29
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (-442.4525452, 40.3371849, 241.6775055)
+	orientation (-0.0463902, -0.5088475, 0, 0.8596058)
+
+	group 1
+	number 30
+	radiusMultiplier 1
+	type CreaturePath
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-287.9072266, 386.8528442, -162.1021271)
+	orientation (-0.6513857, -0.4847804, 0, 0.583682)
+
+	propertyCount 10
+end
+

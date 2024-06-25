@@ -1,0 +1,2976 @@
+marker MigrationPoint
+	position (378.0847778, 286.2049561, -167.7721558)
+	orientation (-0.6339223, 0.514698, -0.1377029, 0.5605947)
+
+	propertyCount 6
+	number 1
+	radiusMultiplier 75
+	type AvatarJourney
+	field_12C 15
+	field_130 30
+end
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-11.416693, -213.722870, 454.744873)
+	orientation (0.218145, -0.003854, -0.034836, 0.975287)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-137.041473, -206.694611, 437.147247)
+	orientation (0.211741, -0.142390, 0.006326, 0.966877)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-297.849335, -187.203522, 358.944794)
+	orientation (0.228444, -0.301200, -0.081143, 0.922230)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-408.833313, -146.036179, 253.237930)
+	orientation (0.230123, -0.441715, -0.118608, 0.858989)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-480.388550, -91.271454, 116.176956)
+	orientation (0.138859, -0.604269, -0.029899, 0.784017)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-492.131897, -13.197754, -101.156998)
+	orientation (0.086662, -0.770146, -0.053805, 0.629659)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-411.631989, 36.133659, -286.101746)
+	orientation (0.216352, 0.858963, -0.073565, -0.458218)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-262.817139, 68.253273, -422.929504)
+	orientation (0.252354, 0.925778, -0.003388, -0.281500)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-114.571640, 91.548851, -480.721191)
+	orientation (0.383790, 0.911562, 0.040151, -0.141943)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (61.148884, 89.230057, -490.815155)
+	orientation (0.500865, 0.858729, 0.107963, 0.007870)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (266.729584, 64.753372, -421.026184)
+	orientation (0.919914, 0.269463, 0.284551, -0.013324)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (418.154449, 13.439119, -278.508514)
+	orientation (-0.355464, 0.806670, -0.176415, 0.437958)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (492.406494, -73.281845, -69.038475)
+	orientation (-0.010313, 0.754040, -0.105550, 0.648211)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (455.993408, -141.347656, 157.135544)
+	orientation (0.084181, 0.580163, -0.126264, 0.800239)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (342.487122, -196.177185, 311.155609)
+	orientation (0.187325, 0.394157, -0.068788, 0.897116)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (186.277893, -226.698914, 408.054962)
+	orientation (0.233181, 0.199193, -0.018196, 0.951639)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-395.810394, 76.717369, 300.082123)
+	orientation (-0.100389, -0.437480, 0.030480, 0.893087)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-454.914459, 143.212677, 158.567566)
+	orientation (-0.163273, -0.561777, -0.017958, 0.810818)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-458.927948, 201.841919, -35.294956)
+	orientation (-0.253150, -0.686315, -0.041551, 0.680559)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-374.407227, 258.981934, -212.951462)
+	orientation (-0.405005, -0.740151, -0.055970, 0.533868)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (477.967712, 153.230911, -25.843489)
+	orientation (-0.336645, 0.642169, -0.118284, 0.678453)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (457.493530, 77.512657, 193.111816)
+	orientation (-0.151678, 0.533740, -0.090539, 0.826993)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (329.301178, 22.415239, 379.023773)
+	orientation (-0.036770, 0.348684, -0.034739, 0.935874)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (234.984329, 168.303268, 411.165558)
+	orientation (-0.168355, 0.250226, 0.027923, 0.953029)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (344.024078, 206.253006, 302.833038)
+	orientation (-0.237217, 0.377437, -0.018825, 0.894939)
+
+	propertyCount 10
+end
+
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-95.227425, 466.278046, -161.608383)
+	orientation (-0.771551, -0.255898, -0.069025, 0.578326)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (61.761166, 471.613159, -162.380234)
+	orientation (-0.813149, -0.018206, -0.088436, 0.575010)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (209.277069, 444.510895, -105.895767)
+	orientation (-0.764129, 0.146478, -0.155802, 0.608586)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (245.371140, 437.097229, 36.602478)
+	orientation (-0.610661, 0.301131, -0.039089, 0.731359)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (279.027924, 366.634491, 200.806610)
+	orientation (-0.451139, 0.310972, -0.039324, 0.835598)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (179.246353, 295.972687, 364.515656)
+	orientation (-0.316582, 0.192723, 0.002133, 0.928779)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (74.888016, 173.850861, 465.583893)
+	orientation (-0.178355, 0.070770, -0.028457, 0.981005)
+
+	propertyCount 10
+end
+
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (348.273712, -120.867950, -341.609589)
+	orientation (0.398548, 0.825231, 0.046268, 0.397508)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (189.715164, -51.466625, -462.558167)
+	orientation (0.483420, 0.852335, 0.049573, 0.193318)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-52.683586, -37.064144, -498.449036)
+	orientation (0.622590, 0.779909, -0.061643, -0.017994)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-209.769485, -56.854912, -453.172180)
+	orientation (0.875890, 0.428545, -0.217731, 0.041953)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-109.728882, -374.812836, -316.347321)
+	orientation (0.876937, -0.213765, -0.019664, -0.429998)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-215.249542, -448.273071, -72.935333)
+	orientation (0.654187, -0.380261, 0.051513, 0.651757)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-107.205971, -480.765991, 99.858147)
+	orientation (0.600390, -0.200472, 0.079494, 0.770080)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (99.039764, -487.489685, 71.733421)
+	orientation (0.649415, -0.083047, 0.243240, 0.715680)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (-16.032320, -459.962982, -201.935043)
+	orientation (0.806906, -0.223151, 0.127326, 0.531879)
+
+	propertyCount 10
+end
+
+
+marker CreatureArchetype -id kHerd~ avatar
+	position (378.0224609, 286.4564514, -167.483139)
+	orientation (-0.6271124, 0.5226991, -0.1302524, 0.5626278)
+
+	propertyCount 10
+end
+
+marker MigrationPoint
+	position (109.9014206, -124.5164566, -474.8536377)
+	orientation (0.9763366, -0.1368676, 0.1271514, 0.1089341)
+
+	propertyCount 6
+	number 1
+	radiusMultiplier 75
+	type AvatarJourney
+	field_12C 15
+	field_130 30
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (109.7309875, -124.0736771, -475.0081482)
+	orientation (0.981993, -0.088373, 0.1213821, 0.114657)
+
+	propertyCount 10
+end
+
+marker MigrationPoint
+	position (426.8077087, -251.4116058, 78.0466309)
+	orientation (0.5599517, 0.3295981, 0.3687326, 0.6647221)
+
+	propertyCount 6
+	number 1
+	radiusMultiplier 75
+	type AvatarJourney
+	field_12C 15
+	field_130 30
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (426.8388367, -251.3259125, 78.1526413)
+	orientation (0.5526187, 0.3415959, 0.3544153, 0.6725434)
+
+	propertyCount 10
+end
+
+marker MigrationPoint
+	position (220.818924, -126.2894897, 435.3556519)
+	orientation (0.1508831, 0.213373, 0.0925073, 0.9608063)
+
+	propertyCount 6
+	number 1
+	radiusMultiplier 75
+	type AvatarJourney
+	field_12C 15
+	field_130 30
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (220.6694031, -127.0561066, 435.208374)
+	orientation (0.1507651, 0.2137982, 0.0884529, 0.961112)
+
+	propertyCount 10
+end
+
+marker MigrationPoint
+	position (258.9725037, 176.9543762, 393.7171936)
+	orientation (-0.2867182, 0.1634632, -0.4133219, 0.8486681)
+
+	propertyCount 6
+	number 1
+	radiusMultiplier 75
+	type AvatarJourney
+	field_12C 15
+	field_130 30
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (258.9378967, 176.8967743, 393.7657471)
+	orientation (-0.27844, 0.1770605, -0.372002, 0.8676032)
+
+	propertyCount 10
+end
+
+marker MigrationPoint
+	position (375.3641052, 307.8357849, 132.7444916)
+	orientation (-0.54664, 0.2632547, -0.3350629, 0.7208429)
+
+	propertyCount 6
+	number 1
+	radiusMultiplier 75
+	type AvatarJourney
+	field_12C 15
+	field_130 30
+end
+
+marker CreatureArchetype -id kHerd~ AvatarSpecies
+	position (375.5976868, 307.370697, 133.160965)
+	orientation (-0.546558, 0.2626385, -0.3365441, 0.7204397)
+
+	propertyCount 10
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (202.9911804, -87.2898636, 451.3745117)
+	orientation (0.0891451, 0.2073054, -0, 0.9742061)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (211.8457642, -69.8221512, 451.544281)
+	orientation (0.0711835, 0.2159762, -0, 0.9738004)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (185.8385773, -96.7489471, 454.3861084)
+	orientation (0.0989792, 0.1901226, 0, 0.9767582)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (238.1571198, -165.6591034, 411.3919067)
+	orientation (0.1726183, 0.2481619, 0, 0.9532149)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (245.9785919, -147.9860535, 414.4317627)
+	orientation (0.1537703, 0.255593, -0.0000001, 0.9544773)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (220.8841705, -175.8947144, 411.7614136)
+	orientation (0.1844164, 0.2315855, 0, 0.9551747)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (269.7658081, -95.7357101, 415.9234924)
+	orientation (0.0992803, 0.279754, 0, 0.9549247)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (264.044281, -114.3806458, 414.8475342)
+	orientation (0.1186905, 0.2739934, -0, 0.9543795)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (283.2006531, -82.6091385, 409.8706665)
+	orientation (0.085939, 0.2946161, 0.0000001, 0.9517436)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (229.4185944, 151.8672485, 421.4160461)
+	orientation (-0.1574152, 0.2377996, -0, 0.9584737)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (247.1930847, 148.583786, 413.8542175)
+	orientation (-0.1543699, 0.2568192, -0.0000001, 0.9540513)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (212.7251892, 147.7496948, 429.4924927)
+	orientation (-0.1528883, 0.2201235, -0, 0.9634162)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (290.9813232, 194.5129242, 361.6562195)
+	orientation (-0.2084634, 0.3118506, -0, 0.9269802)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (305.9146729, 185.6951141, 352.6044006)
+	orientation (-0.2003471, 0.3300523, -0.0000002, 0.9224568)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (277.9508972, 209.4337616, 359.9177246)
+	orientation (-0.2256137, 0.2994242, 0, 0.9270618)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (297.0679321, 122.9903641, 388.5329285)
+	orientation (-0.1296034, 0.3130408, 0, 0.9408551)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (311.9547424, 115.1209412, 378.6441345)
+	orientation (-0.1220625, 0.330765, -0, 0.9357859)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (286.2795715, 139.3187866, 391.1407776)
+	orientation (-0.1465906, 0.3012221, 0, 0.9422188)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (369.8595886, 290.8565674, 178.9430695)
+	orientation (-0.3509165, 0.4462332, 0, 0.8232457)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (380.9240417, 285.7866516, 163.6346283)
+	orientation (-0.3486499, 0.4647143, 0, 0.8139312)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (380.3637695, 319.3117065, 85.4779587)
+	orientation (-0.4142939, 0.4935066, 0.0000001, 0.7647299)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (391.444519, 310.2483826, 71.4531631)
+	orientation (-0.4069264, 0.5134243, -0.0000001, 0.7555172)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (368.8952332, 326.6342163, 92.07061)
+	orientation (-0.4235215, 0.4783182, -0, 0.7693122)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (412.1417847, 264.1324768, 122.7736435)
+	orientation (-0.3319012, 0.5178862, 0.0000005, 0.7884387)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (421.3493042, 256.8240967, 107.1698608)
+	orientation (-0.326644, 0.5358968, -0, 0.778536)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (399.3482666, 277.8646851, 128.9441681)
+	orientation (-0.3483051, 0.5005854, 0, 0.7925262)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (357.8013, 286.4861755, -212.0632324)
+	orientation (-0.5266322, 0.6577271, 0, 0.5385663)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (361.3125916, 273.4623413, -226.3332825)
+	orientation (-0.513297, 0.6781955, 0.0000004, 0.5259058)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (343.6703491, 299.2530518, -204.7693024)
+	orientation (-0.5513601, 0.6331971, 0.0000001, 0.5431975)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (396.0779419, 287.8812561, -122.4966278)
+	orientation (-0.4634452, 0.6376251, -0.0000002, 0.6153477)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (401.7375183, 274.7649841, -135.8530426)
+	orientation (-0.4496544, 0.6574455, -0, 0.6046291)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (382.5640259, 301.9995422, -118.5381241)
+	orientation (-0.4871585, 0.6171182, 0.0000002, 0.6179335)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (407.4751892, 241.6218719, -181.2864227)
+	orientation (-0.4201922, 0.7086191, 0.0000001, 0.5668311)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (410.7609253, 226.7591248, -193.5531158)
+	orientation (-0.4016497, 0.7275654, 0.0000001, 0.5561709)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (397.7017212, 258.5789795, -178.7237701)
+	orientation (-0.4482674, 0.6894482, 0.0000001, 0.5689617)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (148.1840668, -94.0002899, -470.9184875)
+	orientation (0.527167, 0.8310366, 0.0000001, 0.1774067)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (147.7974548, -113.2218094, -467.2888794)
+	orientation (0.5972335, 0.7796165, 0, 0.1884415)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (128.0423737, -97.5018387, -474.5653992)
+	orientation (0.5977525, 0.7849864, 0, 0.162752)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (92.6165695, -169.4654083, -463.999115)
+	orientation (0.8604946, 0.4702785, 0.0000001, 0.1959267)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (104.6599579, -182.9657593, -456.5331421)
+	orientation (0.8478009, 0.484958, 0.0000001, 0.2145914)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (90.6456833, -156.4686279, -467.3351746)
+	orientation (0.8505848, 0.4927623, 0, 0.1835503)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (163.9695282, -161.9367065, -448.7964172)
+	orientation (0.6830084, 0.6915825, -0, 0.234975)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (167.2572632, -179.5064087, -440.9121094)
+	orientation (0.7081732, 0.659849, -0, 0.2511773)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (150.2869873, -150.1788788, -456.8070068)
+	orientation (0.6901735, 0.6906691, 0.0000002, 0.2159556)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (431.4794312, -255.2254486, 30.0478153)
+	orientation (0.3490626, 0.5901186, 0.0000001, 0.7279529)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (437.5912476, -243.3885803, 44.3602028)
+	orientation (0.3281904, 0.5900574, 0.0000001, 0.7376471)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (420.0393372, -270.8141174, 25.8262138)
+	orientation (0.3731447, 0.5787569, -0.0000002, 0.7251231)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (420.6588135, -244.0749817, 126.7966461)
+	orientation (0.3068578, 0.5288638, 0, 0.791291)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (426.8161621, -229.2733917, 138.111969)
+	orientation (0.2850841, 0.5307132, 0.0000003, 0.798167)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (408.4317627, -259.6946411, 125.7725067)
+	orientation (0.3282426, 0.5162398, -0, 0.7910457)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Social
+	position (455.8202515, -204.6614532, 76.2801285)
+	orientation (0.2668846, 0.5944027, 0.0000001, 0.7585895)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (463.6483154, -191.2454987, 89.0222473)
+	orientation (0.2449386, 0.5938202, -0.0000001, 0.7664089)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (445.937439, -221.8095245, 74.6657181)
+	orientation (0.2906305, 0.5842988, 0, 0.7577129)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (271.0435486, 58.3932228, 421.9387207)
+	orientation (-0.0603607, 0.2801759, 0, 0.9580491)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (282.9845886, 73.9243851, 411.0331421)
+	orientation (-0.0769171, 0.2944408, 0.0000001, 0.9525694)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (258.5991211, 37.3478279, 432.2927551)
+	orientation (-0.0383785, 0.2657357, 0, 0.9632817)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (286.5483093, -21.2023544, 415.3995667)
+	orientation (0.0219875, 0.297159, -0, 0.9545748)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (295.5115356, -1.2547348, 410.2462158)
+	orientation (0.0013038, 0.3070755, 0, 0.9516843)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (278.1642151, -46.1936798, 418.7272949)
+	orientation (0.0478378, 0.2880643, 0.0000001, 0.9564155)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (207.7405548, 84.3576584, 449.2016296)
+	orientation (-0.0863154, 0.2125617, -0, 0.9733279)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (210.7966919, 89.0270538, 447.0952454)
+	orientation (-0.0911664, 0.2158622, -0.0000001, 0.9721586)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (205.776123, 79.1930008, 450.8306274)
+	orientation (-0.080985, 0.2104324, 0, 0.9742482)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (228.0749664, 78.3588181, 442.5435486)
+	orientation (-0.0802224, 0.2334993, -0, 0.969042)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (206.8313904, 115.2166595, 443.9301147)
+	orientation (-0.1180264, 0.2118753, -0, 0.9701436)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (212.3100433, 49.2166023, 453.0754395)
+	orientation (-0.0502019, 0.2165602, -0, 0.9749777)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (218.5794983, -10.0153351, 451.894104)
+	orientation (0.0102328, 0.2233258, -0, 0.9746901)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (223.0518188, -6.5646758, 449.8122864)
+	orientation (0.0067141, 0.2281302, -0, 0.9736075)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (214.9640808, -14.2786989, 453.4507446)
+	orientation (0.0145781, 0.219471, 0, 0.9755101)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (235.7465057, -22.332098, 445.0980225)
+	orientation (0.0228261, 0.2409613, -0, 0.9702663)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (217.2049408, 19.9001312, 452.4846497)
+	orientation (-0.0203189, 0.2217753, 0, 0.9748861)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (350.4515991, 168.0490417, 319.6741638)
+	orientation (-0.1846535, 0.3850789, 0.0000002, 0.904222)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (366.3137207, 167.5498657, 303.6514587)
+	orientation (-0.1855632, 0.4056962, -0, 0.8949731)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (332.7149353, 165.2752686, 339.2236328)
+	orientation (-0.1795317, 0.3614145, 0, 0.9149579)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (328.1757507, 31.4650631, 384.3559265)
+	orientation (-0.0331285, 0.3455254, 0, 0.9378244)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (331.8460083, 34.6212578, 380.7754517)
+	orientation (-0.0365311, 0.3501522, -0, 0.9359802)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (325.239563, 27.4321098, 387.3228149)
+	orientation (-0.0288285, 0.3417954, -0, 0.9393321)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (341.3881531, 18.2021942, 372.7003174)
+	orientation (-0.01931, 0.3621655, 0, 0.9319138)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (309.733429, 42.3792953, 396.1251221)
+	orientation (-0.044448, 0.324853, -0, 0.9447195)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (354.4642639, 87.4287872, 348.3664551)
+	orientation (-0.0942284, 0.382032, -0, 0.9193327)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (366.099823, 98.8554688, 332.9050903)
+	orientation (-0.1075262, 0.3982108, -0, 0.91097)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (341.6451721, 70.8409805, 364.6677246)
+	orientation (-0.0756225, 0.3647049, 0, 0.9280472)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (307.3572998, -153.0084076, 369.7088013)
+	orientation (0.1629042, 0.3272355, 0.0000001, 0.9307949)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (297.2391357, -138.4108276, 383.4914856)
+	orientation (0.1462123, 0.3139928, 0.0000001, 0.9380994)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (320.4153137, -167.0216522, 351.3300781)
+	orientation (0.1798829, 0.3450884, 0, 0.9211711)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (334.1473083, -73.0320969, 372.3772278)
+	orientation (0.0775067, 0.3546201, 0, 0.9317925)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (339.371521, -51.1918831, 371.2503967)
+	orientation (0.054366, 0.3604138, 0.0000001, 0.9312069)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (329.5759277, -99.0926056, 370.1960449)
+	orientation (0.1053221, 0.3502948, 0.0000001, 0.9306991)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (369.6485291, -131.6877289, 318.0310974)
+	orientation (0.1444134, 0.4053695, -0, 0.902674)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (366.1624756, -130.0699463, 322.6646729)
+	orientation (0.1422439, 0.4004338, -0.0000001, 0.9052179)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (373.323761, -132.035553, 313.5542603)
+	orientation (0.1451914, 0.4105212, 0, 0.9002177)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (372.4050598, -110.3976288, 323.0856018)
+	orientation (0.1206708, 0.4070596, 0.0000001, 0.9053955)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (368.5082092, -154.2159882, 308.666748)
+	orientation (0.1701618, 0.4066117, -0, 0.8976146)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Epic_Predator
+	position (388.6465454, -15.5949135, 323.8032532)
+	orientation (0.0170151, 0.4240406, -0, 0.9054833)
+
+	propertyCount 10
+	personality EpicPredator
+	withoutNest true
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (385.1060181, -18.9273434, 327.2783508)
+	orientation (0.0206197, 0.4195389, 0, 0.9075031)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (385.2334595, -8.3065519, 327.6777649)
+	orientation (0.0090461, 0.4195307, -0, 0.907696)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (395.908844, -20.370903, 315.1117249)
+	orientation (0.0223323, 0.4340277, 0, 0.9006227)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (390.7080688, -8.4132729, 321.8581238)
+	orientation (0.0091877, 0.4266707, -0, 0.9043604)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (391.2087402, -22.0896454, 320.5541382)
+	orientation (0.024143, 0.4275737, 0, 0.903658)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (411.2085266, 228.4119568, 190.6534119)
+	orientation (-0.2713119, 0.4884411, 0, 0.8293462)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (422.5248718, 226.2590179, 171.2649994)
+	orientation (-0.271903, 0.5077624, 0.0000001, 0.8174632)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (398.7676392, 227.5011139, 214.0817108)
+	orientation (-0.2662522, 0.4666911, 0, 0.8433915)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (370.9037476, 219.942215, 260.3882446)
+	orientation (-0.2506761, 0.4227322, -0.0000001, 0.8708954)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (374.5929871, 219.6704559, 255.6335449)
+	orientation (-0.251076, 0.4281471, -0.0000002, 0.8681307)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (367.8625793, 219.1030731, 265.2589111)
+	orientation (-0.2489498, 0.4179736, -0.0000001, 0.873683)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (383.1712341, 201.5017548, 260.7466736)
+	orientation (-0.2289826, 0.4354281, -0, 0.8706143)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (354.4559937, 237.9657288, 262.5899353)
+	orientation (-0.2719528, 0.4050806, -0.0000001, 0.8728983)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (455.1990356, 137.3516693, 191.1565094)
+	orientation (-0.161742, 0.5360315, 0, 0.8285588)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (451.2432251, 143.4673615, 198.8428345)
+	orientation (-0.1677186, 0.5275197, -0, 0.8328226)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (452.6066589, 145.6651917, 188.8789978)
+	orientation (-0.1720559, 0.5346069, -0.0000001, 0.8274009)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (460.6575317, 147.4563141, 162.0677185)
+	orientation (-0.1780626, 0.5562723, -0.0000001, 0.8116988)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (443.3721313, 145.5521851, 214.1867371)
+	orientation (-0.1683801, 0.5129091, -0, 0.8417674)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (459.4656372, 114.3519592, 194.6113586)
+	orientation (-0.134451, 0.5402238, 0.0000001, 0.8307112)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (459.7065125, 193.9462891, 86.9230042)
+	orientation (-0.2501653, 0.5929611, -0, 0.7653852)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (467.2854309, 182.5682068, 69.0984039)
+	orientation (-0.239125, 0.6120432, -0, 0.7538053)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (450.8498535, 204.2303619, 109.8101578)
+	orientation (-0.2582481, 0.5700971, -0, 0.7799341)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (431.3122253, 260.9012756, 38.9385757)
+	orientation (-0.351606, 0.5812614, -0.0000003, 0.7338313)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (430.8149719, 262.4100037, 33.1320419)
+	orientation (-0.3555786, 0.5837757, -0.0000001, 0.7299108)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (432.3497009, 258.4232178, 44.0835457)
+	orientation (-0.3466086, 0.579887, 0.0000002, 0.7372879)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (441.5859985, 246.3082733, 25.9656982)
+	orientation (-0.3355022, 0.6014945, 0, 0.7250122)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (420.5621033, 274.2218628, 56.3630371)
+	orientation (-0.3640326, 0.5583005, -0.0000002, 0.7455071)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (384.4524841, 326.3497314, 13.0628252)
+	orientation (-0.4516389, 0.5320479, 0, 0.7162035)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (393.0513, 316.2912598, -5.1337018)
+	orientation (-0.4455552, 0.5536859, -0.0000001, 0.7035002)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (375.004364, 334.8394775, 36.3664818)
+	orientation (-0.4536479, 0.5080643, 0.0000001, 0.7321709)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (403.1369934, 299.0470886, -52.1322098)
+	orientation (-0.4425032, 0.596526, -0.0000001, 0.6695877)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (412.6703491, 284.7408447, -66.7147903)
+	orientation (-0.4272468, 0.619202, -0, 0.658824)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (392.9862671, 313.5769958, -32.3626823)
+	orientation (-0.4549741, 0.5701904, -0, 0.6840187)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (444.5431824, 232.2010956, -76.6348038)
+	orientation (-0.3512336, 0.6724276, -0.0000001, 0.6515183)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (443.9997559, 231.1194458, -82.5310974)
+	orientation (-0.3520491, 0.676316, 0.0000001, 0.647038)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (445.6088867, 232.1179047, -70.9311371)
+	orientation (-0.3487557, 0.6695246, -0.0000001, 0.655825)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (454.2723083, 215.6628113, -86.6326828)
+	orientation (-0.3279895, 0.6908771, -0, 0.6442915)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (434.7755432, 252.1745911, -66.5424042)
+	orientation (-0.3773374, 0.650569, -0.0000002, 0.6590724)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (442.7287903, 175.224411, -174.6820221)
+	orientation (-0.301724, 0.7623473, -0, 0.5725287)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (436.8526917, 171.8140411, -196.2001953)
+	orientation (-0.3046496, 0.7745991, 0, 0.5542426)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (448.5719299, 176.9440308, -154.0979614)
+	orientation (-0.2963405, 0.7512543, -0.0000001, 0.5897452)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Epic_Predator
+	position (485.7796936, 144.1290436, -28.9242649)
+	orientation (-0.2067819, 0.6969477, -0.0000001, 0.6866623)
+
+	propertyCount 10
+	personality EpicPredator
+	withoutNest true
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (483.9950562, 148.2160797, -33.0189133)
+	orientation (-0.213682, 0.6977725, 0.0000002, 0.6837057)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (486.9739075, 138.1990204, -35.6507416)
+	orientation (-0.1997136, 0.7037338, 0, 0.6818161)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (485.8986816, 146.4082031, -16.6715813)
+	orientation (-0.2073239, 0.6880652, 0, 0.6954013)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (488.1010437, 136.7425995, -27.7744808)
+	orientation (-0.195902, 0.6992697, 0, 0.6874913)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (484.4718323, 149.4550629, -23.3726521)
+	orientation (-0.2131884, 0.6910689, -0, 0.6906334)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (381.0495605, 209.0907745, -263.2488708)
+	orientation (-0.4191094, 0.7637889, -0.0000003, 0.4908909)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (377.1600952, 211.872757, -266.9066162)
+	orientation (-0.4276854, 0.7613333, -0.0000001, 0.4872954)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (385.0438843, 205.6638031, -260.7839355)
+	orientation (-0.4097605, 0.7671537, -0, 0.4935297)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (377.0982971, 197.0761108, -281.4641113)
+	orientation (-0.4079766, 0.7806492, 0, 0.4734362)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (388.8814087, 219.7329407, -242.7091064)
+	orientation (-0.4228169, 0.7482971, -0.0000001, 0.5111529)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (319.2142639, 275.896698, -278.9538269)
+	orientation (-0.5759421, 0.6663682, -0.0000002, 0.4735442)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (312.6374817, 264.581543, -297.2007141)
+	orientation (-0.5755064, 0.6800347, -0.0000003, 0.4542523)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (327.9187317, 285.3305359, -255.747879)
+	orientation (-0.56982, 0.654871, 0, 0.4964364)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (383.2261353, 161.3473206, -334.0791931)
+	orientation (-0.3499129, 0.8311001, -0, 0.4322425)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (367.2954712, 155.9902039, -349.2487488)
+	orientation (-0.3559817, 0.8381964, -0.0000001, 0.4131632)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (391.2616272, 159.4064484, -306.6751404)
+	orientation (-0.3361433, 0.8250604, -0, 0.454184)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (303.5768433, 209.6621857, -348.6295471)
+	orientation (-0.5218954, 0.7556677, -0.0000005, 0.3957165)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (299.1873474, 213.6620026, -349.6384888)
+	orientation (-0.534089, 0.7478751, -0.0000002, 0.3942484)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (307.0651245, 205.0331879, -348.3551636)
+	orientation (-0.5098922, 0.763633, -0, 0.396074)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (289.4210205, 202.3856506, -363.8836975)
+	orientation (-0.5310675, 0.7594514, -0, 0.3757671)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (320.3952942, 213.5106049, -331.3192749)
+	orientation (-0.5040367, 0.7563605, -0, 0.4169721)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (259.4379883, 159.4235077, -402.8071594)
+	orientation (-0.496365, 0.8077611, 0.0000002, 0.3180313)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (264.2687988, 137.9637756, -407.3998718)
+	orientation (-0.4398946, 0.842615, -0.0000001, 0.3106327)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (256.1432495, 184.449295, -394.5192566)
+	orientation (-0.551414, 0.7657437, -0.0000001, 0.3310275)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (221.2406158, -107.2754974, -440.2043762)
+	orientation (0.4222231, 0.8707755, 0, 0.2519479)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (235.9562073, -120.4549561, -429.4602356)
+	orientation (0.4374234, 0.8568584, -0.0000001, 0.2728635)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (205.8102875, -88.925148, -451.588501)
+	orientation (0.3861514, 0.8937177, -0, 0.2283763)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (168.9974823, -21.6899853, -473.9153137)
+	orientation (0.1254101, 0.9771323, -0, 0.1717116)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (180.6755371, -40.3759689, -469.2861633)
+	orientation (0.214255, 0.9587547, -0, 0.1867734)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (157.7639771, 2.1296632, -477.2417908)
+	orientation (-0.0133262, 0.9871936, -0, 0.1589691)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (304.2049255, -113.1233063, -389.9949951)
+	orientation (0.3277679, 0.8814144, 0.0000001, 0.3401132)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (299.938385, -122.7344666, -390.2831726)
+	orientation (0.3562119, 0.8705081, 0.0000003, 0.339601)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (308.0754089, -119.6145172, -385.1620483)
+	orientation (0.3394261, 0.8742147, 0.0000001, 0.3471866)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (330.9098206, -106.4758453, -374.5194092)
+	orientation (0.2851184, 0.8861023, -0, 0.3654178)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (287.5198975, -133.9035645, -394.9249573)
+	orientation (0.3982483, 0.8551251, 0, 0.3319026)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (294.7145386, -95.0627594, -401.9602356)
+	orientation (0.2905976, 0.9009121, 0.0000002, 0.3223513)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (192.5743561, -229.4771576, -405.2861328)
+	orientation (0.7275422, 0.6105435, 0.0000002, 0.31292)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (198.195282, -229.091217, -403.1402283)
+	orientation (0.7173444, 0.6206007, 0.0000001, 0.3166573)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (187.4810028, -228.8106079, -407.9871826)
+	orientation (0.7357649, 0.602865, 0, 0.308551)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (202.1243744, -210.5021057, -411.2391663)
+	orientation (0.6872433, 0.6598921, -0.0000001, 0.3037086)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (177.4004059, -247.3164215, -397.9524231)
+	orientation (0.7696558, 0.5520752, -0, 0.3206915)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (231.5184631, 66.2276688, -445.0059509)
+	orientation (-0.266612, 0.9320211, -0, 0.2454682)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (223.4628906, 61.1684456, -449.4973755)
+	orientation (-0.2565777, 0.9373394, 0, 0.2357175)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (232.2481995, 57.3633728, -446.2113342)
+	orientation (-0.2325631, 0.9415827, 0, 0.2435906)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (256.5039368, 51.5939865, -433.2380676)
+	orientation (-0.1899624, 0.9444144, -0, 0.26832)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (207.0205536, 60.4335861, -455.1585999)
+	orientation (-0.2733946, 0.9365369, -0, 0.2194402)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (230.4666901, 89.4228363, -440.5498657)
+	orientation (-0.3499737, 0.9019759, -0, 0.2528987)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (286.9739685, -196.6561584, -365.5957642)
+	orientation (0.524896, 0.7659632, 0.0000001, 0.3711935)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (299.8210144, -205.9910736, -349.6890869)
+	orientation (0.5210075, 0.7583283, 0.0000002, 0.3917772)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (274.4807129, -183.1454468, -384.9670105)
+	orientation (0.5205564, 0.7801595, 0, 0.3469469)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (284.1208496, -280.7102051, -307.6738586)
+	orientation (0.6306374, 0.6382996, 0.0000001, 0.441441)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (292.4556274, -277.681427, -302.0123596)
+	orientation (0.6157499, 0.6485108, 0.0000002, 0.4475331)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (288.5247498, -273.3339539, -310.2475891)
+	orientation (0.6180717, 0.6524218, -0.0000001, 0.438558)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (273.0058594, -264.3598633, -331.8968811)
+	orientation (0.6333388, 0.6540518, 0.0000002, 0.4136402)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (302.9548645, -278.862793, -288.2605286)
+	orientation (0.6007102, 0.6526083, -0.0000001, 0.4617897)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (269.9194641, -298.0960693, -300.019104)
+	orientation (0.6625935, 0.5999638, 0, 0.4483449)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (487.0978394, -153.997879, -13.0777349)
+	orientation (0.2158656, 0.6827866, 0, 0.6980004)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (498.8696289, -140.0790558, 2.1525898)
+	orientation (0.19076, 0.6793626, -0.0000002, 0.708574)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (475.9125671, -168.1250458, -33.1166763)
+	orientation (0.2431217, 0.688206, 0, 0.6835675)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (455.8391418, -165.1068878, 154.5377502)
+	orientation (0.2009413, 0.5547734, 0, 0.8073717)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (455.1278381, -162.0025177, 159.646759)
+	orientation (0.1964277, 0.5518418, -0.0000001, 0.8104855)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (456.9603882, -167.0117798, 149.1715393)
+	orientation (0.2040776, 0.5583758, 0.0000001, 0.804095)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (464.8387146, -144.9388733, 152.9839172)
+	orientation (0.1761361, 0.5648922, 0.0000001, 0.806147)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (446.418396, -187.5164948, 152.0495148)
+	orientation (0.2291775, 0.5456001, 0.0000002, 0.8061007)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (396.9058838, -233.0851898, 209.1425018)
+	orientation (0.2741836, 0.4668898, 0, 0.8407362)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (397.9024353, -217.3120422, 225.1616364)
+	orientation (0.2525424, 0.4624099, 0, 0.8499408)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (396.4369812, -248.6803589, 187.6569672)
+	orientation (0.2977253, 0.4746225, 0, 0.8283074)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (339.2817383, -225.0386353, 295.237793)
+	orientation (0.2511623, 0.3786672, 0, 0.8908023)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (339.5965271, -220.1245728, 298.7046204)
+	orientation (0.2451124, 0.3781463, 0.0000001, 0.8927068)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (339.8615723, -229.195694, 291.2291565)
+	orientation (0.2564753, 0.3803128, 0.0000002, 0.8885847)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (357.0715637, -212.4594421, 289.8535767)
+	orientation (0.2365053, 0.3974843, 0.0000001, 0.8866067)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (321.5182495, -241.5708771, 298.4203491)
+	orientation (0.2700071, 0.3593652, 0.0000001, 0.8932821)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (429.1477661, -116.605896, 241.2274933)
+	orientation (0.13411, 0.4935685, 0, 0.8593047)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (423.3596191, -121.3505249, 248.6239929)
+	orientation (0.1389224, 0.4846633, 0, 0.8635983)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (426.3150635, -111.6975861, 248.1818085)
+	orientation (0.1279004, 0.4881564, -0, 0.8633335)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (436.7519226, -86.2555771, 242.1961975)
+	orientation (0.0989944, 0.5012544, 0, 0.8596186)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (415.1765137, -135.0876312, 255.3139038)
+	orientation (0.1539594, 0.4731769, -0, 0.86741)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (437.2014771, -128.4447632, 222.3308868)
+	orientation (0.149354, 0.5083728, -0, 0.8480864)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (411.058197, 92.1565323, 282.0697937)
+	orientation (-0.1030305, 0.4595611, 0, 0.8821498)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (409.3442993, 102.3842545, 280.2670898)
+	orientation (-0.114675, 0.4584841, -0, 0.8812729)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (414.9403381, 95.898407, 274.901947)
+	orientation (-0.1077184, 0.4660842, 0.0000001, 0.8781585)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (427.89505, 73.960968, 262.9786682)
+	orientation (-0.0836129, 0.4837355, -0, 0.8712112)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (402.0077209, 117.6392136, 283.9391785)
+	orientation (-0.1315652, 0.4495968, -0, 0.8834893)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (400.0350037, 80.8084793, 299.6477661)
+	orientation (-0.0894499, 0.4428133, -0, 0.8921407)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (500.9739075, 90.1354065, 75.5670166)
+	orientation (-0.1156541, 0.6428068, -0.0000001, 0.7572474)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (500.5751953, 94.5222473, 65.9790726)
+	orientation (-0.1224868, 0.6486713, -0, 0.7511474)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (502.447998, 84.9002075, 68.4259567)
+	orientation (-0.1096926, 0.6491717, 0, 0.7526909)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (506.0889587, 59.5911446, 80.2587128)
+	orientation (-0.0759853, 0.6453187, -0.0000001, 0.7601251)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (499.8013611, 108.2629013, 55.4449387)
+	orientation (-0.1413984, 0.652773, -0, 0.7442405)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (494.2765198, 102.2895813, 94.7202225)
+	orientation (-0.1294102, 0.6253271, -0, 0.7695578)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (482.4110718, 69.3306656, -141.9763794)
+	orientation (-0.1137902, 0.7917671, 0.0000001, 0.6001305)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (479.7979431, 65.3339157, -151.3531189)
+	orientation (-0.1087099, 0.7983413, 0, 0.5923118)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (483.3884888, 60.4993744, -143.2254181)
+	orientation (-0.0994304, 0.7944465, 0, 0.5991397)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (494.7304382, 52.0745659, -118.543129)
+	orientation (-0.0821524, 0.7804826, 0, 0.6197562)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (473.9879761, 66.7562943, -167.6120453)
+	orientation (-0.1137498, 0.8076544, -0, 0.5785805)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (480.7598572, 92.5458374, -137.5371246)
+	orientation (-0.1506581, 0.782643, -0, 0.6039637)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (326.6466064, 92.2433548, -384.5899048)
+	orientation (-0.2541975, 0.9001473, -0.0000002, 0.3537209)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (319.4888611, 85.4986572, -388.9648132)
+	orientation (-0.242634, 0.9066668, -0.0000001, 0.3450856)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (329.3457031, 83.6766968, -385.4650269)
+	orientation (-0.2303509, 0.9066452, 0, 0.3534586)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (353.6712646, 82.9871979, -370.2555542)
+	orientation (-0.2114651, 0.9012121, -0.0000001, 0.3782846)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (304.23349, 81.7280426, -396.919281)
+	orientation (-0.244979, 0.9119362, -0.0000001, 0.3291773)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (322.897522, 115.7347336, -384.1596069)
+	orientation (-0.3152475, 0.879535, 0.0000001, 0.3564228)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Combat
+	position (465.7369995, -176.3740082, -101.6784668)
+	orientation (0.2743314, 0.7244052, 0.0000001, 0.6324394)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (468.1573486, -171.3495636, -99.4065399)
+	orientation (0.2657424, 0.7260551, 0, 0.6342122)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (463.2353821, -180.5065155, -104.8993301)
+	orientation (0.281991, 0.7236757, 0, 0.6299004)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (467.6082764, -160.7102356, -117.089859)
+	orientation (0.2549361, 0.741771, 0, 0.6203091)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (458.6407471, -194.6594849, -86.9915619)
+	orientation (0.2990781, 0.7046632, 0.0000001, 0.64343)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (411.1378174, -247.8158112, -152.8825378)
+	orientation (0.416751, 0.6914089, 0.0000001, 0.590146)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (422.209137, -239.1501617, -135.3462067)
+	orientation (0.3925348, 0.6930029, 0, 0.6047011)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (396.6831665, -253.6453552, -174.3887482)
+	orientation (0.4421509, 0.6914924, -0, 0.5712625)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (440.145752, -168.27948, -185.3817749)
+	orientation (0.295145, 0.7719705, 0, 0.562984)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (442.311676, -173.3218536, -176.393692)
+	orientation (0.2995376, 0.7644093, 0.0000002, 0.5709253)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (444.4370117, -163.7605896, -178.931839)
+	orientation (0.2844148, 0.7718855, 0.0000001, 0.5685957)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (450.1822815, -139.1760864, -191.6266174)
+	orientation (0.2450543, 0.7926571, 0.0000002, 0.55825)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (441.2041626, -186.9801788, -165.7442932)
+	orientation (0.3178259, 0.7499522, -0.0000001, 0.5801365)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (427.7036743, -178.6000824, -202.6378937)
+	orientation (0.3224598, 0.7722123, 0.0000001, 0.547456)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (414.8183899, 105.1549149, 271.8097229)
+	orientation (-0.118337, 0.4668193, -0.0000001, 0.8763995)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (430.4234314, -255.9001465, -49.6836205)
+	orientation (0.3787756, 0.6370997, -0, 0.6712921)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (439.5727539, -243.6106415, -33.2126045)
+	orientation (0.3538807, 0.638545, 0, 0.683395)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (419.2152405, -266.8880005, -71.096344)
+	orientation (0.405744, 0.637324, -0.0000001, 0.6551259)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (466.2843933, -33.5280533, -196.2808533)
+	orientation (0.0597284, 0.8306593, 0, 0.5535681)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (466.2420349, -55.0136909, -189.6691589)
+	orientation (0.0971467, 0.8233201, 0, 0.5592017)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (467.6430359, -7.2778349, -200.8870544)
+	orientation (0.0129943, 0.8349608, 0, 0.5501561)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (379.690033, -220.1867828, -249.9328461)
+	orientation (0.433702, 0.7478757, 0, 0.5025779)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (382.6989441, -223.9411469, -240.5610046)
+	orientation (0.4339995, 0.7416735, -0.0000001, 0.5114341)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (385.4239807, -215.3049164, -245.0582123)
+	orientation (0.4202763, 0.7523497, -0, 0.5072848)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (390.6854553, -193.2763672, -262.2756042)
+	orientation (0.3859995, 0.7802517, 0.0000002, 0.4921502)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (382.6787415, -235.9209595, -228.0610962)
+	orientation (0.4472107, 0.7254035, 0.0000001, 0.5232517)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (365.0461731, -232.4156342, -264.1224365)
+	orientation (0.4683487, 0.7356165, 0.0000002, 0.4894056)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (428.5356445, -109.542717, -258.4894714)
+	orientation (0.2148037, 0.8403207, 0, 0.4977153)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (437.38797, -99.8828964, -239.9825592)
+	orientation (0.190974, 0.8362782, -0.0000002, 0.5139724)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (417.629364, -117.7800751, -281.9914246)
+	orientation (0.2385611, 0.8458986, 0.0000001, 0.4770159)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (383.7657776, -151.989212, -353.227478)
+	orientation (0.334471, 0.8445239, 0, 0.4182206)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (384.697052, -160.1139221, -346.503479)
+	orientation (0.3478918, 0.8358604, 0.0000001, 0.4246277)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (392.0004578, -152.2020874, -348.5938721)
+	orientation (0.3275759, 0.8436797, 0.0000001, 0.4253219)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (395.7327576, -123.7849121, -346.6207275)
+	orientation (0.2704482, 0.8646057, 0.0000001, 0.4234558)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (375.2744141, -173.492981, -335.9777527)
+	orientation (0.3789123, 0.8196069, 0.0000001, 0.4297324)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (354.2637634, -149.6153717, -361.4051208)
+	orientation (0.3570862, 0.8455193, 0, 0.3969718)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Social
+	position (256.2322388, -22.4017735, -440.5149841)
+	orientation (0.0840724, 0.9616225, -0, 0.2611783)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (234.8945465, -30.0791912, -444.9527893)
+	orientation (0.1232379, 0.9623892, 0, 0.2421148)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (283.9022827, -16.5674095, -435.8068542)
+	orientation (0.0558396, 0.9568779, 0, 0.2850729)
+end
+
+marker CreatureArchetype -id kHerd~ NPC_Medium_Combat
+	position (410.3253479, 56.8294334, -314.650238)
+	orientation (-0.1228922, 0.887318, -0, 0.444482)
+
+	propertyCount 10
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (403.9774475, 53.6182098, -322.412323)
+	orientation (-0.1184315, 0.8923018, -0, 0.4356277)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ 0x54AC5CC0
+	position (411.3491516, 48.2158394, -317.5299683)
+	orientation (-0.1044006, 0.8906842, 0, 0.4424729)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (436.6401367, 38.0262871, -303.5548096)
+	orientation (-0.0768541, 0.8824825, -0.0000001, 0.4640238)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (391.3138428, 56.2726097, -334.0523682)
+	orientation (-0.1291071, 0.8977975, -0, 0.4210593)
+end
+
+marker InteractiveOrnament -id kInteractiveOrnament~ SkeletonStatic
+	position (409.9499817, 79.3038559, -307.2009888)
+	orientation (-0.1694831, 0.8761179, -0.0000001, 0.4513234)
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (68.0702362, 5.7999134, -453.1426086)
+	orientation (-0.08466, 0.9936023, -0, 0.074748)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (112.2490768, 103.2739258, -454.7634277)
+	orientation (-0.6682297, 0.7263025, -0.0000001, 0.1611017)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (141.4631653, 191.1530609, -429.9918518)
+	orientation (0.7783157, -0.5759937, 0.0000001, -0.249912)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (173.5965881, 263.7697449, -374.0841064)
+	orientation (0.784528, -0.5163267, 0, -0.3433987)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (215.5820618, 311.0329895, -288.7723083)
+	orientation (0.7366328, -0.5105723, -0, -0.4434955)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (275.7020264, 331.9438782, -206.4114838)
+	orientation (-0.6508197, 0.54055, -0, 0.5331411)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (307.7879639, 346.9294128, -127.2816467)
+	orientation (-0.5948383, 0.5277272, 0, 0.6063592)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (317.096344, 369.0480042, 40.0339432)
+	orientation (-0.5138627, 0.4415251, -0, 0.7355275)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (296.1277771, 359.3812866, 118.6636734)
+	orientation (-0.4735664, 0.3902155, -0.0000001, 0.7895991)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (298.5592346, 312.9468994, 191.619873)
+	orientation (-0.3946268, 0.3764838, -0, 0.8381704)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (298.6143188, 279.2384949, 267.6073303)
+	orientation (-0.3248194, 0.3473579, -0.0000001, 0.8796788)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (245.2970428, 256.6116333, 329.4581299)
+	orientation (-0.289031, 0.2762869, -0, 0.9165842)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (186.0768433, 233.4356689, 380.8487244)
+	orientation (-0.2551685, 0.2034006, 0, 0.9452604)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (153.6528473, 161.7292328, 433.2229919)
+	orientation (-0.1707527, 0.1622257, -0, 0.9718674)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (139.0673828, 73.0555649, 465.2918396)
+	orientation (-0.0753771, 0.1434866, -0, 0.9867775)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (137.2459869, -21.211422, 472.2888184)
+	orientation (0.0217661, 0.1408347, -0, 0.9897938)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (123.7130661, -101.0876007, 456.1173706)
+	orientation (0.106085, 0.1298289, 0, 0.985845)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (142.4770508, -183.2282867, 425.2319336)
+	orientation (0.195167, 0.1517605, -0, 0.9689575)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (201.6163635, -219.8139343, 377.8933105)
+	orientation (0.2416565, 0.2216506, 0, 0.944708)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (260.0431213, -234.8369904, 321.2252808)
+	orientation (0.2698561, 0.298821, -0, 0.9153599)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (284.3537903, -287.7981262, 272.3771362)
+	orientation (0.334234, 0.3302339, 0, 0.8827419)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (322.6082153, -309.1124878, 198.3853912)
+	orientation (0.3770978, 0.3935617, 0, 0.8383952)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (352.4158325, -316.6706238, 111.6399155)
+	orientation (0.4148921, 0.4617242, 0.0000002, 0.7840123)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (362.808136, -308.8960571, 28.6954842)
+	orientation (0.4444037, 0.5219662, -0, 0.7280499)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (374.3687134, -303.0329285, -50.4731331)
+	orientation (0.4674952, 0.5775462, 0, 0.6692448)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (352.1605225, -310.8484802, -129.3815765)
+	orientation (0.5264142, 0.5963752, -0.0000001, 0.6059907)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (306.0018921, -311.9069824, -202.0634155)
+	orientation (0.6014292, 0.5900428, 0, 0.5386394)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (249.8323975, -328.6723938, -259.7242432)
+	orientation (0.6968832, 0.5297189, 0.0000001, 0.4834789)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (181.4372101, -338.3399048, -311.9124146)
+	orientation (0.7957352, 0.4267186, 0.0000001, 0.4297868)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (111.1977539, -313.0272522, -368.0957947)
+	orientation (0.879531, 0.3124392, -0.0000001, 0.358897)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (73.2129898, -255.3521881, -413.7692871)
+	orientation (0.9223948, 0.2644632, 0, 0.2815086)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (6.3599548, -150.2786865, -467.2415771)
+	orientation (0.9870165, 0.0417715, 0, 0.1550921)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (22.6368561, -216.4920349, -443.219696)
+	orientation (0.9687806, 0.1012977, 0, 0.2262806)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker CreatureArchetype -id kHerd~ 0x54058840
+	position (23.3730755, -55.5652733, -463.2112732)
+	orientation (0.9198418, 0.3869239, -0, 0.0646598)
+
+	propertyCount 10
+	withoutNest true
+end
+
+marker MigrationPoint
+	position (222.8094482, -129.4009247, 433.4234619)
+	orientation (0.253831, 0.0760232, 0.6598356, 0.703141)
+
+	group 3
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (274.6925964, -136.9815216, 400.566803)
+	orientation (0.2997468, 0.1152285, 0.6394186, 0.6985829)
+
+	group 3
+	number 2
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (308.855072, -110.7438889, 384.029541)
+	orientation (0.3071652, 0.1596989, 0.6374684, 0.6883166)
+
+	group 3
+	number 3
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (345.7943115, -120.4548416, 347.9667969)
+	orientation (0.3460622, 0.1892436, 0.6163427, 0.6815787)
+
+	group 3
+	number 4
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (376.3963318, -87.3896866, 325.4056091)
+	orientation (0.3471403, 0.2396253, 0.6103523, 0.67048)
+
+	group 3
+	number 5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (409.1412048, -73.2963104, 287.4518738)
+	orientation (0.3715414, 0.2784937, 0.6039019, 0.6478431)
+
+	group 3
+	number 6
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (447.5941467, -69.787056, 230.2841644)
+	orientation (0.4104444, 0.3239687, 0.5797378, 0.624887)
+
+	group 3
+	number 7
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (467.7790222, -4.1585975, 211.9679565)
+	orientation (0.386245, 0.3800683, 0.5937974, 0.5947837)
+
+	group 3
+	number 8
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (469.4594727, 57.9747162, 194.1414948)
+	orientation (0.3496642, 0.4334629, 0.5967787, 0.5776678)
+
+	group 3
+	number 9
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (470.2209778, 86.1849365, 178.0283356)
+	orientation (0.3428308, 0.4560405, 0.6037662, 0.5567409)
+
+	group 3
+	number 10
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (484.7861328, 89.7423248, 138.5714111)
+	orientation (0.60322, 0.0289016, 0.7897807, -0.1074094)
+
+	group 3
+	number 11
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (473.440979, 144.649292, 123.2152405)
+	orientation (0.3448865, 0.5101855, 0.6127186, 0.4953181)
+
+	group 3
+	number 12
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (432.9324341, 222.6832275, 145.4577179)
+	orientation (0.5815823, 0.1364775, 0.7780917, -0.1941887)
+
+	group 3
+	number 13
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (399.9376526, 260.2170105, 161.585022)
+	orientation (0.5578548, 0.1685782, 0.7802299, -0.227202)
+
+	group 3
+	number 14
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (379.3563843, 300.8371887, 138.9367371)
+	orientation (0.5691998, 0.1951833, 0.7529404, -0.2664506)
+
+	group 3
+	number 15
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (263.9493408, 168.7627716, 394.9160461)
+	orientation (0.0890426, 0.3167983, 0.7049761, 0.6282666)
+
+	group 4
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (263.5671082, 113.103157, 415.7596741)
+	orientation (0.1191406, 0.2724624, 0.6964914, 0.6530464)
+
+	group 4
+	number 2
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (313.1662903, 66.2740097, 389.7047119)
+	orientation (0.1903963, 0.2781728, 0.6810932, 0.6499856)
+
+	group 4
+	number 3
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (366.3304749, 33.3552971, 345.721344)
+	orientation (0.2583933, 0.3013406, 0.6581752, 0.6397126)
+
+	group 4
+	number 4
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (412.1199646, 29.0142059, 292.9354858)
+	orientation (0.3058623, 0.3424119, 0.6368844, 0.6193388)
+
+	group 4
+	number 5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (444.7795715, 32.9342003, 242.5300598)
+	orientation (0.3410887, 0.3805196, 0.6194391, 0.5959518)
+
+	group 4
+	number 6
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (466.3949585, 41.3724861, 204.5851288)
+	orientation (0.3578689, 0.4144119, 0.6007251, 0.5825135)
+
+	group 4
+	number 7
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (433.651825, -238.6352081, 85.8870316)
+	orientation (0.6253113, -0.1533111, 0.7389296, 0.1986571)
+
+	group 5
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (448.2476807, -204.2547607, 121.3879395)
+	orientation (0.6041816, -0.1238141, 0.7672516, 0.175954)
+
+	group 5
+	number 2
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (424.052124, -212.3232574, 171.9793549)
+	orientation (0.5579158, -0.1351687, 0.7978994, 0.183891)
+
+	group 5
+	number 3
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (428.1795349, -183.5632629, 197.3638611)
+	orientation (0.5416281, -0.1076861, 0.8155941, 0.1727686)
+
+	group 5
+	number 4
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (448.6571655, -138.8431091, 192.3628387)
+	orientation (0.468327, 0.3019212, 0.5337015, 0.6361416)
+
+	group 5
+	number 5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (456.8045349, -98.4339523, 205.8948212)
+	orientation (0.4424569, 0.3203543, 0.5597564, 0.6231194)
+
+	group 5
+	number 6
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (447.9664001, -68.7834778, 230.0422974)
+	orientation (0.4100688, 0.3248663, 0.579955, 0.6244658)
+
+	group 5
+	number 7
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (382.2029114, 282.1468201, -166.0400085)
+	orientation (0.768289, 0.2733158, 0.5539607, -0.1678034)
+
+	group 6
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (420.1886292, 247.4825745, -136.3795166)
+	orientation (0.7672629, 0.2144127, 0.5841491, -0.1552568)
+
+	group 6
+	number 2
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (438.3078613, 205.3131714, -151.4747772)
+	orientation (0.7869896, 0.1731575, 0.5777024, -0.1300917)
+
+	group 6
+	number 3
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (458.3129272, 142.1533661, -164.4182587)
+	orientation (0.8039866, 0.1252087, 0.5751091, -0.0847227)
+
+	group 6
+	number 4
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (470.3085938, 66.6704712, -182.4407043)
+	orientation (0.8201126, 0.0817678, 0.5658433, -0.0234654)
+
+	group 6
+	number 5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (483.5209045, 11.6245193, -163.8643646)
+	orientation (0.5721404, 0.5771459, 0.4200717, 0.4038536)
+
+	group 6
+	number 6
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (481.8968506, -68.2167664, -149.5158081)
+	orientation (0.5919957, 0.5443989, 0.3767372, 0.4596086)
+
+	group 6
+	number 7
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (471.1372681, -122.1456223, -142.8999786)
+	orientation (0.6114153, 0.5167463, 0.3459811, 0.4893277)
+
+	group 6
+	number 8
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (450.9041138, -180.6457672, -144.2667389)
+	orientation (0.7879371, -0.1466627, 0.5864649, 0.1170642)
+
+	group 6
+	number 9
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (442.6695862, -210.0354462, -129.4463959)
+	orientation (0.7718469, -0.1787919, 0.5960532, 0.1304084)
+
+	group 6
+	number 10
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (441.7980957, -220.3305969, -108.4813156)
+	orientation (0.7568104, -0.1858642, 0.6113015, 0.1378515)
+
+	group 6
+	number 11
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (440.3863831, -237.8333893, -62.2379837)
+	orientation (0.7265206, -0.1840322, 0.6419352, 0.1619238)
+
+	group 6
+	number 12
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (444.0110168, -238.1054535, -9.0564442)
+	orientation (0.691926, -0.1738524, 0.6796159, 0.1706925)
+
+	group 6
+	number 13
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (445.7633972, -232.3503265, 28.4250546)
+	orientation (0.6674164, -0.1622566, 0.7056128, 0.17418)
+
+	group 6
+	number 14
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (435.5673523, -243.0461121, 62.2173233)
+	orientation (0.6413501, -0.1636501, 0.724566, 0.1920752)
+
+	group 6
+	number 15
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (119.1572037, -133.2825623, -470.8174438)
+	orientation (0.9834079, 0.0185338, 0.1177193, 0.1367761)
+
+	group 7
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (143.9848022, -133.6406708, -463.1517334)
+	orientation (0.7044024, 0.6812658, 0.010741, 0.1989445)
+
+	group 7
+	number 2
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (185.8807526, -121.0858917, -453.3533936)
+	orientation (0.7078434, 0.6693812, 0.0527327, 0.2193306)
+
+	group 7
+	number 3
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (223.2112122, -149.4501801, -426.8585205)
+	orientation (0.7035133, 0.6544064, 0.0636066, 0.2697694)
+
+	group 7
+	number 4
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (244.6055908, -153.3438568, -416.8013916)
+	orientation (0.9543453, 0.0159769, 0.2500355, 0.1626407)
+
+	group 7
+	number 5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (269.0892944, -142.7688599, -402.4624939)
+	orientation (0.7026098, 0.6364104, 0.1082499, 0.2993382)
+
+	group 7
+	number 6
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (290.8211365, -147.0262909, -386.8005066)
+	orientation (0.6820145, 0.6459414, 0.1158153, 0.3228046)
+
+	group 7
+	number 7
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (309.0627747, -159.0738983, -372.5852051)
+	orientation (0.6729697, 0.6424266, 0.119932, 0.3464334)
+
+	group 7
+	number 8
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (304.9849854, -186.6803589, -357.896698)
+	orientation (0.9171191, 0.1122547, 0.2995446, 0.2378329)
+
+	group 7
+	number 9
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (317.9481506, -216.5333252, -326.7140808)
+	orientation (0.6976192, 0.5805175, 0.115593, 0.4036895)
+
+	group 7
+	number 10
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (326.4856262, -241.2082214, -298.9977112)
+	orientation (0.691449, 0.5642968, 0.1116039, 0.4370492)
+
+	group 7
+	number 11
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (345.5944214, -247.6889496, -273.1016846)
+	orientation (0.8296053, -0.2863043, 0.459406, 0.1368615)
+
+	group 7
+	number 12
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (365.1225586, -252.4560852, -237.3344879)
+	orientation (0.8151592, -0.2669522, 0.4928136, 0.1462424)
+
+	group 7
+	number 13
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (390.3154297, -239.113678, -210.4398346)
+	orientation (0.8095447, -0.2312861, 0.5198332, 0.1446291)
+
+	group 7
+	number 14
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (416.8873291, -216.0928497, -186.7385559)
+	orientation (0.8011968, -0.2070054, 0.5472565, 0.1254708)
+
+	group 7
+	number 15
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (439.8026123, -194.1622772, -161.6623993)
+	orientation (0.7943159, -0.1686039, 0.5712297, 0.1197148)
+
+	group 7
+	number 16
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (456.2418518, -165.7704773, -143.6154327)
+	orientation (0.6246657, 0.50164, 0.3106025, 0.5115429)
+
+	group 7
+	number 17
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (185.0469971, -121.0473938, -453.7217712)
+	orientation (0.7078441, 0.6696426, 0.0520899, 0.2186826)
+
+	group 8
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (195.6627045, -70.5632935, -459.5879517)
+	orientation (0.6912063, 0.6911981, 0.0896944, 0.1908771)
+
+	group 8
+	number 2
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (209.5544739, -25.8328037, -457.357666)
+	orientation (0.6940727, 0.6871848, 0.1328625, 0.1684866)
+
+	group 8
+	number 3
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (226.8963928, 21.6946449, -450.0830994)
+	orientation (0.6854916, 0.690046, 0.1786168, 0.148438)
+
+	group 8
+	number 4
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (272.1141052, 44.4134178, -425.1716919)
+	orientation (0.6683174, 0.6876518, 0.2279171, 0.1689396)
+
+	group 8
+	number 5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (284.0054016, 87.5269394, -408.8565063)
+	orientation (0.6561198, 0.6884415, 0.2697101, 0.1510351)
+
+	group 8
+	number 6
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (270.2115784, 144.2287445, -401.9525146)
+	orientation (0.6555305, 0.6840865, 0.3039734, 0.0995273)
+
+	group 8
+	number 7
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (272.5476379, 190.1407776, -382.1911316)
+	orientation (0.6300322, 0.6930892, 0.3415254, 0.0777636)
+
+	group 8
+	number 8
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (272.9177551, 229.9855194, -359.2795715)
+	orientation (0.9209083, -0.0815737, 0.268652, -0.2703698)
+
+	group 8
+	number 9
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (299.5636597, 249.109787, -323.4746094)
+	orientation (0.5677035, 0.7050575, 0.4165745, 0.084097)
+
+	group 8
+	number 10
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (347.3725281, 243.3545532, -278.5151978)
+	orientation (0.5482993, 0.6883447, 0.4554864, 0.1344678)
+
+	group 8
+	number 11
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (371.0392456, 250.8207855, -237.5272217)
+	orientation (0.8154081, 0.2634002, 0.4951308, -0.1434419)
+
+	group 8
+	number 12
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (381.8015442, 277.2151489, -183.1357574)
+	orientation (0.7822017, 0.2628328, 0.538996, -0.1690053)
+
+	group 8
+	number 13
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (458.5609131, 141.9122162, -163.8619843)
+	orientation (0.8037134, 0.1248018, 0.5755852, -0.084681)
+
+	group 9
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (482.9295349, 106.5297928, -114.9070969)
+	orientation (0.7781532, 0.0874011, 0.6185209, -0.0653495)
+
+	group 9
+	number 2
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (508.2432556, 82.5462341, -47.5078735)
+	orientation (0.7359908, 0.0652328, 0.672066, -0.0488828)
+
+	group 9
+	number 3
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (501.7373657, 107.7392807, 7.7210469)
+	orientation (0.6978019, 0.0745017, 0.7084705, -0.0747765)
+
+	group 9
+	number 4
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (484.2369385, 146.4483795, 53.0538368)
+	orientation (0.6642227, 0.0816021, 0.7321736, -0.1267719)
+
+	group 9
+	number 5
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (475.2528687, 147.9261169, 97.3555984)
+	orientation (0.628177, 0.0970318, 0.7635002, -0.1142192)
+
+	group 9
+	number 6
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (472.6886597, 144.4946899, 125.2031631)
+	orientation (0.3349468, 0.5148167, 0.6049415, 0.5067742)
+
+	group 9
+	number 7
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (379.2783813, 283.7820435, -169.2062683)
+	orientation (0.7456678, 0.2612188, 0.5785093, -0.2026607)
+
+	group 1
+	number 1
+	type CreaturePath
+end
+
+marker MigrationPoint
+	position (381.741333, 277.3921814, -182.8619843)
+	orientation (0.73493, 0.2620706, 0.5891221, -0.2100765)
+
+	group 1
+	number 2
+	type CreaturePath
+end
+

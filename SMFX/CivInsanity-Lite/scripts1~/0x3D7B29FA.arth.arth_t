@@ -1,0 +1,73 @@
+Tribe_Population_Change = 0.0
+rand_number = Random_Value
+max_cities = 80.0 * (1.0 - water_fraction)
+Max_Food = 80.0
+
+if (Tribe_Food > Max_Food)
+	Tribe_Food = Max_Food
+endif
+
+Surplus = 0.0
+Surplus = (1.0 + Tribe_Food) / (1.0 + Size_Of_Tribe)
+Surplus_Mod = 0.0
+
+if (Surplus >= 5.0)
+	Surplus_Mod = 0.3
+else if (Surplus >= 2.5)
+	Surplus_Mod = 0.2
+else if (Surplus >= 1.5)
+	Surplus_Mod = 0.1
+else if (Surplus >= 0.5)
+	Surplus_Mod = -0.1
+else if (Surplus >= 0.1)
+	Surplus_Mod = -0.3
+endif
+endif
+endif
+endif
+endif
+
+Pop_mod = Surplus_Mod + rand_number
+
+if (Pop_mod >= 1.0)
+	Pop_Mod = 0.9
+	if (Pop_mod <= 0.0)
+		Pop_Mod = 0.1
+	endif
+endif
+
+if (Time_Since_Last_Creature_Added_Or_Removed > 60000.0)
+	if (Number_Of_Cities <= max_cities)
+		if (Pop_mod > 0.5)
+			Tribe_Population_Change = 1.0
+		else if (Pop_mod > 0.25)
+			Tribe_Population_Change = 0.0
+		else if (Pop_mod <= 0.25)
+			Tribe_Population_Change = -1.0
+		endif
+		endif
+		endif
+	else if (Pop_mod > 0.5)
+		Tribe_Population_Change = -2.0
+	else if (Pop_mod > 0.25)
+		Tribe_Population_Change = -3.0
+	else if (Pop_mod <= 0.25)
+		Tribe_Population_Change = -1.0
+	endif
+	endif
+	endif
+	endif
+	if (Size_Of_Tribe >= 19.0)
+		if (Pop_mod > 0.5)
+			Tribe_Population_Change = -2.0
+		else if (Pop_mod > 0.25)
+			Tribe_Population_Change = -3.0
+		else if (Pop_mod <= 0.25)
+			Tribe_Population_Change = -1.0
+		endif
+		endif
+		endif
+	endif
+endif
+
+
