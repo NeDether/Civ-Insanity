@@ -1,4 +1,4 @@
-num_tribes = 20.0
+num_tribes = 40.0
 num_tribes_near_water = 20.0
 min_dist_to_neighbor_tribe = 10.0
 max_dist_to_neighbor_tribe = 80.0

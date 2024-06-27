@@ -1,0 +1,11 @@
+num_cities = 15.0
+num_cities_near_water = num_cities * 0.35
+num_npc_cities_on_player_continent = num_cities * 0.45
+num_harvesters = 10.0
+num_offensive_vehicles = 200.0
+population_min = 15.0
+population_max = 50.0
+wealth_min = 1000.0
+wealth_max = 3000.0
+food = 60.0
+

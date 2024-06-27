@@ -1,0 +1,20 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	0
+	
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+end
+keys palettePagePartItems
+	VehicleDefinitions!Harvester
+	VehicleDefinitions!EconomicLand
+	VehicleDefinitions!CulturalLand
+	VehicleDefinitions!MilitaryLand
+end
+key palettePagePartParentPage cityplanner_page_land

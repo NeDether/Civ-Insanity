@@ -1,0 +1,44 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	3
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+	3
+end
+keys palettePagePartItems
+	VehicleDefinitions!Harvester
+	VehicleDefinitions!EconomicLand
+	VehicleDefinitions!CulturalLand
+	VehicleDefinitions!MilitaryLand
+	VehicleDefinitions!EconomicWater
+	VehicleDefinitions!CulturalWater
+	VehicleDefinitions!MilitaryWater
+	VehicleDefinitions!EconomicAir
+	VehicleDefinitions!CulturalAir
+	VehicleDefinitions!MilitaryAir
+	VehicleDefinitions!ufo
+end
+key palettePagePartParentPage cityplanner_page_schitzo

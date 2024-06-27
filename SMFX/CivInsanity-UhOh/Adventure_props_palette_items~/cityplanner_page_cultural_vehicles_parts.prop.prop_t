@@ -1,0 +1,20 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	0
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+end
+keys palettePagePartItems
+	VehicleDefinitions!Harvester
+	VehicleDefinitions!CulturalLand
+	VehicleDefinitions!CulturalWater
+	VehicleDefinitions!CulturalAir
+	VehicleDefinitions!ufo
+end
+key palettePagePartParentPage cityplanner_page_cultural_vehicles

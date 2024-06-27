@@ -1,6 +1,6 @@
 Tribe_Population_Change = 0.0
 rand_number = Random_Value
-max_cities = 20.0 * (1.0 - water_fraction)
+max_cities = 100.0 * (1.0 - water_fraction)
 Max_Food = 80.0
 
 if (Tribe_Food > Max_Food)

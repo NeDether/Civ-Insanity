@@ -1,0 +1,16 @@
+key parent palette_config~!TemplatePalettePlannerCategory.prop
+keys paletteCategoryIconList
+	editors_vehicle~!0xB8D815AD.png
+	editors_vehicle~!0x689A10B6.png
+	editors_vehicle~!0x937F7223.png
+	editors_vehicle~!0x6DB21DE1.png
+	editors_vehicle~!0xEC59464F.png
+	editors_vehicle~!0x689A10B6.png
+	editors_vehicle~!0x71B36DB9.png
+	editors_vehicle~!0xBB870B4F.png
+	editors_vehicle~!0x57A0B1A6.png
+end
+texts paletteCategoryName
+	"Water Vehicles"
+end
+uint32 paletteCategorySequenceNumber 700
