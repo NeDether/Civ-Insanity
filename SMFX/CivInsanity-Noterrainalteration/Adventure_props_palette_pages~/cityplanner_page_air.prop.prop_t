@@ -1,0 +1,5 @@
+key parent palette_config~!TemplatePalettePlannerVehiclePage.prop
+string16 description "Vehicles"
+key palettePageParentCategory planners_palette_category~!cityplanner_category_air
+uint32 palettePageSequenceNumber 300
+int32 palettePageSetId 3

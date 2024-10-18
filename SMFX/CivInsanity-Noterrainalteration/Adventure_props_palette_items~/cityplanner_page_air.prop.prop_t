@@ -1,0 +1,21 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	0
+	
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+	3
+
+end
+keys palettePagePartItems
+	VehicleDefinitions!EconomicAir
+	VehicleDefinitions!CulturalAir
+	VehicleDefinitions!MilitaryAir
+	VehicleDefinitions!ufo
+end
+key palettePagePartParentPage cityplanner_page_air

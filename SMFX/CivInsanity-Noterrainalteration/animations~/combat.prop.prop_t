@@ -1,0 +1,9 @@
+int32 AaShotsPerTurret 3
+float CityHallBuildingHealth 3600
+float CivilianBuildingHealth 700
+float MilitaryBuildingHealth 800
+float SdrBeamLifetime 2
+float StandardCreatureHealth 1
+float 0x97E02AB9 0.85
+float 0xC930AF25 1.1
+float 0xC9CE9128 1

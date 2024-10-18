@@ -1,0 +1,16 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+end
+int32s palettePagePartItemRows
+	0
+	1
+	2
+end
+keys palettePagePartItems
+	VehicleDefinitions!EconomicWater
+	VehicleDefinitions!CulturalWater
+	VehicleDefinitions!MilitaryWater
+end
+key palettePagePartParentPage cityplanner_page_water

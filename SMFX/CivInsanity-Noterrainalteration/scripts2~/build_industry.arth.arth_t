@@ -1,0 +1,20 @@
+plan_context = ContextCity
+
+if (city_internal_specialty ~= CitySpecialtyProduction)
+	modifier = 2.0
+	pop_threshold = 40.0
+else
+	modifier = 0.5
+	pop_threshold = 80.0
+endif
+
+if ((((city_factory_count + 1.0) * pop_threshold) <= city_population) and (civ_money >= IndustryCost))
+	value = ((city_population * 0.0075) - (city_factory_count * 0.5)) * modifier
+else
+	value = 0.0
+endif
+
+executor = PlanBuildBuilding
+building_type = BuildingTypeFactory
+building_quantity = 1.0
+

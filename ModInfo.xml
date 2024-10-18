@@ -1,0 +1,16 @@
+<mod displayName="Civ Insanity" unique="CivInsanity" description="A modification for SPORE that allows you to have up to 16 cities per planet, place any kind of vehicle outside of your cities (harvesters included) and makes rival cities more aggressive."  installerSystemVersion="1.0.1.2" hasCustomInstaller="true" isExperimental="false" dllsBuild="2.5.290">
+	<remove>CivInsanity-Lite.package</remove>
+	<remove>CivInsanity-Noterrainalteration.package</remove>
+	<remove>CivInsanity-UhOh.package</remove>
+	
+
+	
+	<componentGroup unique="civinsanityversions" displayName="Civ Insanity Modes">
+		<component unique="onlyCities" displayName="Increase city amount." description="This mode simply increases the amount of cities per planet, while slightly tweaking your rival cities' AI. (WARNING: CHANCE OF CRASHING)" game="GalacticAdventures" defaultChecked="false">CivInsanity-Lite.package</component>
+		<component unique="onlyTweaks" displayName="Vehicle overhaul." description="Allows you to place any type of vehicle outside of your cities, also tweaks rival city AI. (WARNING: DO NOT USE WITH CITY WALL REPLACEMENT MODS." game="GalacticAdventures" defaultChecked="true">CivInsanity-Noterrainalteration.package</component>
+		<component unique="insane" displayName="Civ Insanity!" description="Enables everything. Be warned, it's called ''Civ Insanity'' for a reason." game="GalacticAdventures" defaultChecked="false">CivInsanity-UhOh.package</component>
+	</componentGroup>
+
+	
+
+</mod>

@@ -1,0 +1,16 @@
+key parent palette_config~!TemplatePalettePlannerCategory.prop
+keys paletteCategoryIconList
+	editors_vehicle~!0xFDFEBF91.png
+	editors_vehicle~!0xC4CB2CD2.png
+	editors_vehicle~!0x9B93D8D7.png
+	editors_vehicle~!0xB1A87CFD.png
+	editors_vehicle~!0x090117E3.png
+	editors_vehicle~!0xC4CB2CD2.png
+	editors_vehicle~!0xEB09CD7D.png
+	editors_vehicle~!0x5A56EB2B.png
+	editors_vehicle~!0xB7D85D52.png
+end
+texts paletteCategoryName
+	"Land Vehicles"
+end
+uint32 paletteCategorySequenceNumber 600

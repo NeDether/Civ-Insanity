@@ -1,0 +1,16 @@
+key parent palette_config~!TemplatePalettePlannerCategory.prop
+keys paletteCategoryIconList
+	editors_vehicle~!0xEFBAA732.png
+	editors_vehicle~!0x7C5EF88F.png
+	editors_vehicle~!0x6B9A8E1C.png
+	editors_vehicle~!0x87651A1C.png
+	editors_vehicle~!0x83A3ADAE.png
+	editors_vehicle~!0x7C5EF88F.png
+	editors_vehicle~!0x0F0525A8.png
+	editors_vehicle~!0x7C094820.png
+	editors_vehicle~!0x7D4DB12F.png
+end
+texts paletteCategoryName
+	"Air Vehicles"
+end
+uint32 paletteCategorySequenceNumber 800

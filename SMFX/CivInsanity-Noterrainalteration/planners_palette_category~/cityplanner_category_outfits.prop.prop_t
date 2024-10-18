@@ -1,0 +1,16 @@
+key parent palette_config~!TemplatePalettePlannerCategory.prop
+keys paletteCategoryIconList
+	editors_planner~!0x0301AE78.png
+	editors_planner~!0xDB107981.png
+	editors_planner~!0x241F32F6.png
+	editors_planner~!0x0301AE78.png
+	editors_planner~!0xC7E11928.png
+	editors_planner~!0xDB107981.png
+	editors_planner~!0xB4A16B06.png
+	editors_planner~!0x5B0A2906.png
+	editors_planner~!0x25445DD1.png
+end
+texts paletteCategoryName
+	(cip!0x00000009) "Outfits"
+end
+uint32 paletteCategorySequenceNumber 200

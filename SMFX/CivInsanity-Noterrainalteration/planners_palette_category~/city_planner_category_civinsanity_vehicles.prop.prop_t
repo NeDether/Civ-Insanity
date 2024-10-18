@@ -1,0 +1,16 @@
+key parent palette_config~!TemplatePalettePlannerCategory.prop
+keys paletteCategoryIconList
+	editors_planner~!0x7ECDA124.png
+	editors_planner~!0xA3D60C15.png
+	editors_planner~!0x6FFC1162.png
+	editors_planner~!0x7ECDA124.png
+	editors_planner~!0x1F40C264.png
+	editors_planner~!0xA3D60C15.png
+	editors_planner~!0x411846A2.png
+	editors_planner~!0x1E25ECEA.png
+	editors_planner~!0x035FE0AD.png
+end
+texts paletteCategoryName
+	"Civ-Insanity Vehicles"
+end
+uint32 paletteCategorySequenceNumber 200

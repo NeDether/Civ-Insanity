@@ -1,0 +1,9 @@
+keys palettePalettePages
+	Adventure_props_palette_pages~!cityplanner_page_buildings
+	Adventure_props_palette_pages~!cityplanner_page_land
+	Adventure_props_palette_pages~!cityplanner_page_water
+	Adventure_props_palette_pages~!cityplanner_page_air
+	Adventure_props_palette_pages~!cityplanner_page_civicobjects
+	Adventure_props_palette_pages~!cityplanner_page_music
+	Adventure_props_palette_pages~!cityplanner_page_outfits
+end

@@ -1,0 +1,8 @@
+num_tribes = 20.0
+num_tribes_near_water = 20.0
+min_dist_to_neighbor_tribe = 10.0
+max_dist_to_neighbor_tribe = 80.0
+max_tribe_location_slope = 0.45
+tribe_pop = 12.0
+tribe_food = 15.0
+
