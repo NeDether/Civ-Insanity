@@ -1,4 +1,4 @@
-<mod displayName="Civ Insanity" unique="CivInsanity" description="A modification for SPORE that allows you to have up to 16 cities per planet, place any kind of vehicle outside of your cities (harvesters included) and makes rival cities more aggressive."  installerSystemVersion="1.0.1.2" hasCustomInstaller="true" isExperimental="false" dllsBuild="2.5.290">
+<mod displayName="Civ Insanity" unique="CivInsanity" description="Can't get enough of the Civilization Stage in SPORE? This absolutely bonkers modifcation indroduces many new features! For example, this mod allows you to have up to 16 cities per planet, place any kind of vehicle outside of your cities (harvesters included) and makes rival cities more aggressive. But that's only a few of the features this mod introduces."  installerSystemVersion="1.0.1.2" hasCustomInstaller="true" isExperimental="false" dllsBuild="2.5.290">
 	<remove>CivInsanity-Lite.package</remove>
 	<remove>CivInsanity-Noterrainalteration.package</remove>
 	<remove>CivInsanity-UhOh.package</remove>
